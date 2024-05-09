@@ -151,7 +151,6 @@ body {
   flex-direction: column;
   align-items: start;
   gap: 2rem;
-  /* border: 1px solid red; */
 }
 .blog-description {
   /* border: 1px solid blueviolet; */
@@ -267,4 +266,19 @@ body {
   color: hsl(236, 13%, 42%);
   line-height: 1.7;
   width: 65%;
+}
+
+/* ******************** */
+
+/* JS INTERACTIVITY */
+/* .hidden {
+  display: none;
+} */
+
+.link.menu {
+  display: none;
+}
+
+.link.menu-close {
+  display: none;
 }
